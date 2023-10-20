@@ -71,6 +71,7 @@ pip install nombre_paquete
 ![image](https://github.com/Danielforondapastor/sistemas-expertos/assets/95243114/f6068c2b-f983-4bf8-83b0-9f48e29dbaab)
 
 
+
 # 2. Instala Anaconda en tu PC
 
 ### Paso 1: Descargar e Instalar Anaconda[https://www.anaconda.com/download]
@@ -99,3 +100,44 @@ Una vez creado ya podremos introducir codigo y cambiar el titulo.
 
 
 
+# 3. Diferencias entre Enviroment, Anaconda y Colab
+
+### Entorno
+Un entorno de desarrollo se refiere a la configuración de software y hardware en la que se ejecuta un programa.
+
+##### Pros:
+- Flexibilidad completa para personalizar el entorno según las necesidades.
+- Puede funcionar en cualquier sistema operativo.
+- Control total sobre las versiones de bibliotecas y paquetes.
+##### Contras:
+- Requiere tiempo y esfuerzo para configurar y mantener.
+- Puede ser complicado para principiantes.
+- No ofrece recursos de cómputo escalables.
+
+### Anaconda
+Anaconda es una plataforma de código abierto que se especializa en la gestión de entornos de Python y R para la ciencia de datos y el análisis.
+##### Pros:
+- Facilita la gestión de entornos virtuales y paquetes con conda.
+- Viene con un amplio conjunto de bibliotecas preinstaladas para ciencia de datos.
+- Es compatible con múltiples sistemas operativos.
+##### Contras:
+- Ocupa más espacio en disco que un entorno personalizado.
+- Puede ser abrumador para usuarios novatos debido a la cantidad de herramientas incluidas.
+
+### Google Colab
+Google Colab es un entorno de desarrollo en la nube gratuito basado en Jupyter Notebook que permite ejecutar código de Python en servidores de Google.
+
+##### Pros:
+- Acceso a recursos de cómputo poderosos sin la necesidad de hardware costoso.
+- Integración con Google Drive para almacenar y compartir proyectos.
+- Ideal para la colaboración en línea.
+##### Contras:
+- Requiere conexión a internet para su uso.
+- La disponibilidad de recursos puede ser variable dependiendo de la demanda.
+- Limitaciones en el tiempo de ejecución y acceso a GPU gratuitos.
+
+#### Eleccion
+
+- Si necesitas un control total y tienes experiencia en configurar entornos, usar tu propio entorno puede ser la mejor opción.
+- Si buscas una forma fácil de gestionar paquetes y entornos en tu máquina local, Anaconda es una elección sólida.
+- Si buscas recursos de cómputo poderosos y no te importa trabajar en la nube, Colab es una excelente opción, especialmente para proyectos colaborativos y educativos.
