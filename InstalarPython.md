@@ -1,4 +1,4 @@
-# Creación de Entornos Python y Uso de Anaconda
+# 1. Creación de Entornos Python
 
 ### **Paso 1: Verificar la Instalación de Python**
 
