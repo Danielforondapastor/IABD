@@ -93,7 +93,7 @@ Selecciona "Python" para crear un nuevo notebook de Python.
 
 ![image](https://github.com/Danielforondapastor/IABD/assets/95243114/42aa6467-7339-45e3-80e8-3f7913989fc5)
 
-Una vez creado ya podremo introducir codigo y cambiar el titulo.
+Una vez creado ya podremos introducir codigo y cambiar el titulo.
 
 ![image](https://github.com/Danielforondapastor/IABD/assets/95243114/f472885d-e283-41c6-b79f-b5d1e5c1a460)
 
