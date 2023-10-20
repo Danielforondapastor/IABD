@@ -1,4 +1,4 @@
-# 1. Crea dos enviroment en tu PC:
+![image](https://github.com/Danielforondapastor/IABD/assets/95243114/7cfde303-bc33-4b17-8326-c3ddb55a506c)# 1. Crea dos enviroment en tu PC:
 Para poder hacer las siguientes tareas tendrás que buscar en internet como instalar un paquete de python, como ver los paquetes que tenemos instalados de python.
 #### 1. Lista los paquetes python instalados en el primer environment
 #### 2. Instala un paquete en el 2º environment y lista los paquetes
@@ -48,4 +48,14 @@ Para poder hacer las siguientes tareas tendrás que buscar en internet como inst
 11. Ahora podemos observar que paquetes estan instalados.
 
 ![image](https://github.com/Danielforondapastor/sistemas-expertos/assets/95243114/f6068c2b-f983-4bf8-83b0-9f48e29dbaab)
+
+
+# 2. Instala Anaconda en tu PC
+
+#### Descarga e instala Anaconda
+#### Crea un notebook de jupyter, en esta crea un titulo que diga mi primer programa y crea un codigo que imprima "mi primer programa".
+
+1. Instalación de Anaconda (https://www.anaconda.com/download).
+
+![image](https://github.com/Danielforondapastor/IABD/assets/95243114/8239687f-c41f-424e-b9b5-5224dbe2a374)
 
